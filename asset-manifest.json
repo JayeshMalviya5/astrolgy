@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/astrolgy/static/css/main.040e2acd.css",
+    "main.js": "/astrolgy/static/js/main.2dee8368.js",
+    "static/js/787.62010373.chunk.js": "/astrolgy/static/js/787.62010373.chunk.js",
+    "static/media/background.jpg": "/astrolgy/static/media/background.d7c029655bf2004c4ed3.jpg",
+    "static/media/dummy1.png": "/astrolgy/static/media/dummy1.105d6c3e46340691fa1d.png",
+    "static/media/banner.png": "/astrolgy/static/media/banner.cefb9523a6593e1d6904.png",
+    "static/media/Chakra.png": "/astrolgy/static/media/Chakra.65591a5ed8f1a2eeadf0.png",
+    "static/media/u2.png": "/astrolgy/static/media/u2.dac599275c8980a82d46.png",
+    "static/media/u1.jpg": "/astrolgy/static/media/u1.00867effeb9361cfda90.jpg",
+    "static/media/u3.png": "/astrolgy/static/media/u3.280b697ddffceacf8929.png",
+    "static/media/m4.png": "/astrolgy/static/media/m4.f08203d2aaf78350c245.png",
+    "static/media/bottom.png": "/astrolgy/static/media/bottom.e0de4a6dcfb5d407c0ef.png",
+    "static/media/Logo.png": "/astrolgy/static/media/Logo.8016f1fa01ac993acabe.png",
+    "static/media/ChakraSun.png": "/astrolgy/static/media/ChakraSun.970a9d47cfc1cd90c9fd.png",
+    "static/media/w3.png": "/astrolgy/static/media/w3.9b48cc871f38aadcf68b.png",
+    "static/media/w2.png": "/astrolgy/static/media/w2.9bc49b47c2e2c385c9e2.png",
+    "static/media/m2.png": "/astrolgy/static/media/m2.27ec9894c4b1f8e3876b.png",
+    "static/media/w1.png": "/astrolgy/static/media/w1.a369cfe4f5f8b083ebc6.png",
+    "static/media/m3.png": "/astrolgy/static/media/m3.f55f84c125428a84cb55.png",
+    "static/media/m1.png": "/astrolgy/static/media/m1.ed8011c454e1f55cdf5b.png",
+    "index.html": "/astrolgy/index.html",
+    "main.040e2acd.css.map": "/astrolgy/static/css/main.040e2acd.css.map",
+    "main.2dee8368.js.map": "/astrolgy/static/js/main.2dee8368.js.map",
+    "787.62010373.chunk.js.map": "/astrolgy/static/js/787.62010373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040e2acd.css",
+    "static/js/main.2dee8368.js"
+  ]
+}
