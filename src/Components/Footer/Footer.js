@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="flex flex-wrap w-80 gap-16 text-white justify-start list-none ">
+      <div className="flex flex-wrap w-[400px] gap-16 text-white justify-start list-none ">
         <div >
           <div className="text-xl font-semibold flex ">Company</div>
           <li>Home</li>
